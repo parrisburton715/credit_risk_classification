@@ -26,6 +26,7 @@ Accuracy: 0.99
 
 The model correctly predicted 99% of the instances in the test set.
 
+
 *Precision:
 
 For class 0 (non-default): 1.00
@@ -33,6 +34,7 @@ For class 0 (non-default): 1.00
 For class 1 (default): 0.85
 
 Precision indicates the proportion of true positive predictions out of all positive predictions made.
+
 
 *Recall:
 
