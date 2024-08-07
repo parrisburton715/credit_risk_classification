@@ -20,18 +20,18 @@ Methods Used
 Logistic Regression: A statistical model used for binary classification tasks. It predicts the probability of a categorical dependent variable based on one or more predictor variables.
 
 ## Results
-Machine Learning Model 1: Logistic Regression
-*Accuracy: 0.99
+*Machine Learning Model 1: Logistic Regression
+Accuracy: 0.99
 The model correctly predicted 99% of the instances in the test set.
 
-Precision:
-*For class 0 (non-default): 1.00
-*For class 1 (default): 0.85
+*Precision:
+For class 0 (non-default): 1.00
+For class 1 (default): 0.85
 Precision indicates the proportion of true positive predictions out of all positive predictions made.
 
-Recall:
-*For class 0 (non-default): 0.99
-*For class 1 (default): 0.91
+*Recall:
+For class 0 (non-default): 0.99
+For class 1 (default): 0.91
 Recall measures the proportion of actual positives that were correctly identified by the model.
 
 ## Summary
